@@ -2,8 +2,8 @@
 <h3 align="center">An IT student from FEU Institute of Technology</h3>
 
 <h3 align="left">Facts about me:</h3>
-<h5 align="center">I'm 19 yeras old</h5>
-<h5 align="center">I love League of Legends(Yuumi main)</h5>
+<h5 align="left">I'm 19 years old</h5>
+<h5 align="left">I love League of Legends(Yuumi main)</h5>
 <img align="right" src="https://media.tenor.com/OZMr10f-fnoAAAAi/yuumi.gif">
 
 <h3 align="left">How to reach me:</h3>
