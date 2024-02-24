@@ -4,6 +4,7 @@
 <h3 align="left">How to reach me:</h3>
 
 -  **ynalvezjazzmine@gmail.com**
+-  **202210285@fit.edu.ph**
 
 
   <h3 align="left">Connect with me:</h3>
