@@ -4,8 +4,8 @@
 <h3 align="center">An IT student from FEU Tech</h3>
 
 - 📫 How to reach me
-  **ynalvezjazzmine@gmail.com**
-  
+-  **ynalvezjazzmine@gmail.com**
+- [Facebook](https://www.facebook.com/jazzmine.llana)
 
 
 <h3 align="left">Languages and Tools:</h3>
