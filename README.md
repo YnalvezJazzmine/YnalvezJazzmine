@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Jazzmine Llana Ynalvez</h1>
 <h3 align="center">An IT student from FEU Tech</h3>
 
