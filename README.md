@@ -1,5 +1,8 @@
 <h1 align="center">Hi :3, I'm Jazzmine Llana Ynalvez</h1>
-<h3 align="center">An IT student from FEU Tech</h3>
+<h3 align="center">An IT student from FEU Institute of Technology</h3>
+<h5 align="center">I
+<img align="right" src="https://media.tenor.com/DgkZSkkcRQUAAAAM/cat-meme.gif">
+
 
 <h3 align="left">How to reach me:</h3>
 
