@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jazzmine Llana Ynalvez</h1>
+<h1 align="center">Hi :3, I'm Jazzmine Llana Ynalvez</h1>
 <h3 align="center">An IT student from FEU Tech</h3>
 
 <h3 align="left">How to reach me:</h3>
