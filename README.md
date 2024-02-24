@@ -1,6 +1,6 @@
 <h1 align="center">Hi :3, I'm Jazzmine Llana Ynalvez</h1>
 <h3 align="center">An IT student from FEU Institute of Technology</h3>
-<h5 align="center">I love League of Legends</h5>
+<h5 align="center">I love League of Legends(Yuumi main)</h5>
 <img align="right" src="https://media.tenor.com/OZMr10f-fnoAAAAi/yuumi.gif">
 
 
